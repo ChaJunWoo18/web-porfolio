@@ -8108,7 +8108,8 @@ a.text-dark:hover, a.text-dark:focus {
   body {
     min-width: 992px !important; }
   .container {
-    min-width: 992px !important; }
+    min-width: 992px !important; 
+   }
   .navbar {
     display: none; }
   .badge {
@@ -8700,8 +8701,13 @@ h1, h2, h3, h4, h5,
   .page .heading {
     font-weight: 800;
     font-size: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+    margin-top: 10px;
     color: #3e64ff; }
+  .page b {
+    color:#343a40;
+    }
+    
 
 .resume-wrap {
   width: 100%;
